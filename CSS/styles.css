@@ -1,0 +1,156 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: #3F4E4F;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.365rem; 
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    color: #3F4E4F;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+h3 {
+    color: #a27b5c;
+    font-family: 'Monsterrat', sans-serif;
+}
+
+p {
+    line-height: 2;
+}
+
+hr {
+    border: dotted #DCD7C9 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+
+}
+
+.top-container {
+    background-color: #ECF9FF;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    margin: 100px 0px; 
+}
+
+.bottom-container {
+    background-color: #ECF9FF;
+    padding: 50px 0 20px;
+}
+
+a {
+    color: #3F4E47;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 15px;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#A27B5C
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+.soft-skills {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 80%;
+}
+
+.cinnaroll {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 50%;
+}
+
+
+.coding-skills {
+    width: 35%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 80%;
+
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px auto;
+}
+
+.copyright {
+    color: #A27B5C;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+
+.pro {
+    text-decoration: underline;
+
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 250px;
+}
+
+.profile-pic {
+    width: 25%;
+    margin: 50px auto 10px auto;
+}
+
+.btn {
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #3F4E4F;
+    padding: 10px 20px 10px 20px;
+    border: solid #1f628d 2px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #DCD7C9;
+    text-decoration: none;
+  }
